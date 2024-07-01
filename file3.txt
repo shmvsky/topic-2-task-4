@@ -1,0 +1,3 @@
+welcome to the world of mapreduce
+mapreduce can process large datasets
+hello again

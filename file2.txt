@@ -1,0 +1,3 @@
+mapreduce is powerful
+hello from the other side
+this is another test
